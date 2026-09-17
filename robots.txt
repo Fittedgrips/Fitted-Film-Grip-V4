@@ -1,5 +1,4 @@
 User-agent: *
-
 Allow: /
 
-Sitemap: https://fittedgrips.github.io/fitted-film-grip-v4/sitemap.xml
+Sitemap: https://fittedgrips.github.io/Fitted-Film-Grip-V4/sitemap.xml
